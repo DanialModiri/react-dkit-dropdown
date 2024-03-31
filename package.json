@@ -1,0 +1,45 @@
+{
+  "name": "react-dkit-dropdown",
+  "version": "1.0.0",
+  "description": "A component to create dropdowns simply",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "author": "Danyal Modiry",
+  "license": "ISC",
+  "type": "module",
+  "types": "/types",
+  "peerDependencies": {
+    "react": "17^",
+    "react-dom": "17^"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^1.2.25",
+    "@storybook/addon-essentials": "^8.0.4",
+    "@storybook/addon-interactions": "^8.0.4",
+    "@storybook/addon-links": "^8.0.4",
+    "@storybook/addon-onboarding": "^8.0.4",
+    "@storybook/blocks": "^8.0.4",
+    "@storybook/react": "^8.0.4",
+    "@storybook/react-vite": "^8.0.4",
+    "@storybook/test": "^8.0.4",
+    "@types/react": "^18.2.72",
+    "@types/react-dom": "^18.2.23",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-storybook": "^0.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.13.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "sass": "^1.72.0",
+    "storybook": "^8.0.4",
+    "typescript": "^5.4.3",
+    "typescript-eslint": "^7.4.0"
+  },
+  "dependencies": {
+    "classnames": "^2.5.1"
+  }
+}
