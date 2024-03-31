@@ -9,6 +9,9 @@
   },
   "author": "Danyal Modiry",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/DanialModiri/react-dkit-dropdown.git"
+  },
   "type": "module",
   "types": "/types",
   "peerDependencies": {
